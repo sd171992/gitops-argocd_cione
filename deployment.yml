@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: flask-app
-        image: sumitpatil12/gitops-argocd_cione:v1
+        image: sumitpatil12/gitops-argocd_cione:51
         ports:
         - containerPort: 5000
 ---
